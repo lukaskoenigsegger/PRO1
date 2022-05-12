@@ -5,6 +5,6 @@ int = 1203;
 }
 
 public void firstMethod(){
-int i = 5;
+int i = 6;
 int a = 5;
 }
