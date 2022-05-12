@@ -1,4 +1,6 @@
 
 public void thisIsANewMethod() { }
 
-public void firstMethod(){}
+public void firstMethod(){
+int i = 5;
+}
